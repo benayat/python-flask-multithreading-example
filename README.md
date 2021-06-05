@@ -15,7 +15,7 @@ requirements:
 <li>run redis-server</li>
 <li>run python app.py</li>
 <li>run supervisord</li>
-</li>go to the endpoint "/task?n=100"</li>
+<li>go to the endpoint "/task?n=100"</li>
 </ol>
 results:
 <ul>
