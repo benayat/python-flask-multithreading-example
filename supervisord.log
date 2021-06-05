@@ -1,0 +1,153 @@
+2021-06-05 12:52:47,532 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-06-05 12:52:47,536 INFO supervisord started with pid 16084
+2021-06-05 12:52:48,539 INFO spawned: 'worker-0' with pid 16085
+2021-06-05 12:52:48,540 INFO spawned: 'worker-1' with pid 16086
+2021-06-05 12:52:48,542 INFO spawned: 'worker-2' with pid 16087
+2021-06-05 12:52:48,544 INFO spawned: 'worker-3' with pid 16088
+2021-06-05 12:52:49,709 INFO success: worker-0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 12:52:49,710 INFO success: worker-1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 12:52:49,710 INFO success: worker-2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 12:52:49,710 INFO success: worker-3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 12:53:33,764 WARN received SIGINT indicating exit request
+2021-06-05 12:53:33,764 INFO waiting for worker-0, worker-1, worker-2, worker-3 to die
+2021-06-05 12:53:33,842 INFO stopped: worker-2 (exit status 0)
+2021-06-05 12:53:33,842 INFO stopped: worker-3 (exit status 0)
+2021-06-05 12:53:33,844 INFO stopped: worker-1 (exit status 0)
+2021-06-05 12:53:33,845 INFO stopped: worker-0 (exit status 0)
+2021-06-05 13:04:44,875 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-06-05 13:04:44,878 INFO supervisord started with pid 16123
+2021-06-05 13:04:45,880 INFO spawned: 'worker-0' with pid 16124
+2021-06-05 13:04:45,882 INFO spawned: 'worker-1' with pid 16125
+2021-06-05 13:04:45,884 INFO spawned: 'worker-2' with pid 16126
+2021-06-05 13:04:45,885 INFO spawned: 'worker-3' with pid 16127
+2021-06-05 13:04:46,993 INFO success: worker-0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 13:04:46,994 INFO success: worker-1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 13:04:46,994 INFO success: worker-2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 13:04:46,994 INFO success: worker-3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 13:22:36,472 WARN received SIGINT indicating exit request
+2021-06-05 13:22:36,473 INFO waiting for worker-0, worker-1, worker-2, worker-3 to die
+2021-06-05 13:22:36,704 INFO stopped: worker-3 (exit status 0)
+2021-06-05 13:22:36,710 INFO stopped: worker-1 (exit status 0)
+2021-06-05 13:22:36,713 INFO stopped: worker-0 (exit status 0)
+2021-06-05 13:22:36,713 INFO stopped: worker-2 (exit status 0)
+2021-06-05 13:39:13,280 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-06-05 13:39:13,283 INFO supervisord started with pid 16456
+2021-06-05 13:39:14,286 INFO spawned: 'worker-0' with pid 16457
+2021-06-05 13:39:14,288 INFO spawned: 'worker-1' with pid 16458
+2021-06-05 13:39:14,290 INFO spawned: 'worker-2' with pid 16459
+2021-06-05 13:39:14,293 INFO spawned: 'worker-3' with pid 16460
+2021-06-05 13:39:15,399 INFO success: worker-0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 13:39:15,399 INFO success: worker-1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 13:39:15,399 INFO success: worker-2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 13:39:15,399 INFO success: worker-3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 13:51:26,026 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-06-05 13:51:26,029 INFO supervisord started with pid 17001
+2021-06-05 13:51:27,031 INFO spawned: 'worker-0' with pid 17002
+2021-06-05 13:51:27,037 INFO spawned: 'worker-1' with pid 17003
+2021-06-05 13:51:27,043 INFO spawned: 'worker-2' with pid 17004
+2021-06-05 13:51:27,049 INFO spawned: 'worker-3' with pid 17005
+2021-06-05 13:51:28,202 INFO success: worker-0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 13:51:28,202 INFO success: worker-1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 13:51:28,203 INFO success: worker-2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 13:51:28,203 INFO success: worker-3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 13:52:13,263 WARN received SIGINT indicating exit request
+2021-06-05 13:52:13,264 INFO waiting for worker-0, worker-1, worker-2, worker-3 to die
+2021-06-05 13:52:13,333 INFO stopped: worker-1 (exit status 0)
+2021-06-05 13:52:13,333 INFO stopped: worker-2 (exit status 0)
+2021-06-05 13:52:13,334 INFO stopped: worker-0 (exit status 0)
+2021-06-05 13:52:13,334 INFO stopped: worker-3 (exit status 0)
+2021-06-05 17:13:17,623 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-06-05 17:13:17,627 INFO supervisord started with pid 499
+2021-06-05 17:13:18,629 INFO spawned: 'worker-0' with pid 500
+2021-06-05 17:13:18,631 INFO spawned: 'worker-1' with pid 501
+2021-06-05 17:13:18,632 INFO spawned: 'worker-2' with pid 502
+2021-06-05 17:13:18,635 INFO spawned: 'worker-3' with pid 503
+2021-06-05 17:13:19,755 INFO success: worker-0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 17:13:19,755 INFO success: worker-1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 17:13:19,755 INFO success: worker-2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 17:13:19,755 INFO success: worker-3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 17:21:45,536 WARN received SIGINT indicating exit request
+2021-06-05 17:21:45,536 INFO waiting for worker-0, worker-1, worker-2, worker-3 to die
+2021-06-05 17:21:45,589 INFO stopped: worker-0 (exit status 0)
+2021-06-05 17:21:45,591 INFO stopped: worker-1 (exit status 0)
+2021-06-05 17:21:45,762 INFO stopped: worker-2 (exit status 0)
+2021-06-05 17:21:45,771 INFO stopped: worker-3 (exit status 0)
+2021-06-05 17:23:01,357 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-06-05 17:23:01,360 INFO daemonizing the supervisord process
+2021-06-05 17:23:01,360 INFO supervisord started with pid 518
+2021-06-05 17:23:02,362 INFO spawned: 'worker-0' with pid 519
+2021-06-05 17:23:02,364 INFO spawned: 'worker-1' with pid 520
+2021-06-05 17:23:02,365 INFO spawned: 'worker-2' with pid 521
+2021-06-05 17:23:02,367 INFO spawned: 'worker-3' with pid 522
+2021-06-05 17:23:03,485 INFO success: worker-0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 17:23:03,485 INFO success: worker-1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 17:23:03,485 INFO success: worker-2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 17:23:03,485 INFO success: worker-3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 17:46:53,678 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-06-05 17:46:53,682 INFO daemonizing the supervisord process
+2021-06-05 17:46:53,683 INFO supervisord started with pid 854
+2021-06-05 17:46:54,685 INFO spawned: 'worker-0' with pid 855
+2021-06-05 17:46:54,686 INFO spawned: 'worker-1' with pid 856
+2021-06-05 17:46:54,687 INFO spawned: 'worker-2' with pid 857
+2021-06-05 17:46:54,689 INFO spawned: 'worker-3' with pid 858
+2021-06-05 17:46:55,803 INFO success: worker-0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 17:46:55,803 INFO success: worker-1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 17:46:55,803 INFO success: worker-2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 17:46:55,803 INFO success: worker-3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 18:04:07,883 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-06-05 18:04:07,888 INFO daemonizing the supervisord process
+2021-06-05 18:04:07,888 INFO supervisord started with pid 881
+2021-06-05 18:04:08,892 INFO spawned: 'worker-0' with pid 882
+2021-06-05 18:04:08,895 INFO spawned: 'worker-1' with pid 883
+2021-06-05 18:04:08,896 INFO spawned: 'worker-2' with pid 884
+2021-06-05 18:04:08,897 INFO spawned: 'worker-3' with pid 885
+2021-06-05 18:04:10,023 INFO success: worker-0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 18:04:10,023 INFO success: worker-1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 18:04:10,023 INFO success: worker-2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 18:04:10,023 INFO success: worker-3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 18:11:42,332 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-06-05 18:11:42,336 INFO daemonizing the supervisord process
+2021-06-05 18:11:42,336 INFO supervisord started with pid 948
+2021-06-05 18:11:43,339 INFO spawned: 'worker-0' with pid 949
+2021-06-05 18:11:43,342 INFO spawned: 'worker-1' with pid 950
+2021-06-05 18:11:43,344 INFO spawned: 'worker-2' with pid 951
+2021-06-05 18:11:43,347 INFO spawned: 'worker-3' with pid 952
+2021-06-05 18:11:44,507 INFO success: worker-0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 18:11:44,507 INFO success: worker-1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 18:11:44,507 INFO success: worker-2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 18:11:44,507 INFO success: worker-3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 18:14:48,285 WARN received SIGTERM indicating exit request
+2021-06-05 18:14:48,286 INFO waiting for worker-0, worker-1, worker-2, worker-3 to die
+2021-06-05 18:14:48,452 INFO stopped: worker-0 (exit status 0)
+2021-06-05 18:14:48,453 INFO stopped: worker-2 (exit status 0)
+2021-06-05 18:14:48,474 INFO stopped: worker-3 (exit status 0)
+2021-06-05 18:14:48,476 INFO stopped: worker-1 (exit status 0)
+2021-06-05 18:15:14,799 WARN received SIGTERM indicating exit request
+2021-06-05 18:15:14,799 INFO waiting for worker-0, worker-1, worker-2, worker-3 to die
+2021-06-05 18:15:14,842 INFO stopped: worker-3 (exit status 0)
+2021-06-05 18:15:14,906 INFO stopped: worker-1 (exit status 0)
+2021-06-05 18:15:15,009 INFO stopped: worker-0 (exit status 0)
+2021-06-05 18:15:15,024 INFO stopped: worker-2 (exit status 0)
+2021-06-05 18:15:32,790 WARN received SIGTERM indicating exit request
+2021-06-05 18:15:32,790 INFO waiting for worker-0, worker-1, worker-2, worker-3 to die
+2021-06-05 18:15:32,970 INFO stopped: worker-1 (exit status 0)
+2021-06-05 18:15:32,970 INFO stopped: worker-2 (exit status 0)
+2021-06-05 18:15:33,005 INFO stopped: worker-3 (exit status 0)
+2021-06-05 18:15:33,019 INFO stopped: worker-0 (exit status 0)
+2021-06-05 18:16:14,415 WARN received SIGTERM indicating exit request
+2021-06-05 18:16:14,418 INFO waiting for worker-0, worker-1, worker-2, worker-3 to die
+2021-06-05 18:16:14,514 INFO stopped: worker-1 (exit status 0)
+2021-06-05 18:16:14,630 INFO stopped: worker-3 (exit status 0)
+2021-06-05 18:16:14,666 INFO stopped: worker-2 (exit status 0)
+2021-06-05 18:16:14,673 INFO stopped: worker-0 (exit status 0)
+2021-06-05 18:18:03,447 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2021-06-05 18:18:03,451 INFO daemonizing the supervisord process
+2021-06-05 18:18:03,451 INFO supervisord started with pid 1003
+2021-06-05 18:18:04,454 INFO spawned: 'worker-0' with pid 1004
+2021-06-05 18:18:04,456 INFO spawned: 'worker-1' with pid 1005
+2021-06-05 18:18:04,457 INFO spawned: 'worker-2' with pid 1006
+2021-06-05 18:18:04,460 INFO spawned: 'worker-3' with pid 1007
+2021-06-05 18:18:05,620 INFO success: worker-0 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 18:18:05,621 INFO success: worker-1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 18:18:05,621 INFO success: worker-2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-05 18:18:05,621 INFO success: worker-3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
